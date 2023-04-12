@@ -158,7 +158,7 @@ dir_data = os.path.join(dir_main, 'data')
 
 if __name__ == '__main__':
     
-    fn = "/Users/davidvandijcke/Downloads/ukr_admbnda_sspe_20230201_SHP/ukr_admbnda_adm3_sspe_20230201.shp"
+    fn = os.path.join(dir_data, "raw", "geo", "ukr_admbnda_sspe_20230201_SHP", "ukr_admbnda_adm3_sspe_20230201.shp")
     gdf = gpd.read_file(fn)
     
     # export city polygons for referee 1 question 2

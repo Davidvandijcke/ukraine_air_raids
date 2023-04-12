@@ -1,6 +1,6 @@
 # Ukraine_AirRaids
 
-The code in this repository can be used to replicate the results in the publication "Civil Response to Government Alerts Declines During Russian Invasion of Ukraine" (Forthcoming in PNAS), conditional on obtaining the required mobile device data from mobility data vendor [Veraset](https://veraset.com). All datasets considered confidential or sensitive have been removed from the replication package. To access the remaining datasets used in the publication, please refer to the accompanying OpenIPCSR repository. 
+The code in this repository can be used to replicate the results in the publication "Public response to government alerts saves lives during Russian invasion of Ukraine" (Forthcoming in PNAS), conditional on obtaining the required mobile device data from mobility data vendor [Veraset](https://veraset.com). All datasets considered confidential or sensitive have been removed from the replication package. To access the remaining datasets used in the publication, please refer to the accompanying [Harvard DataVerse](https://doi.org/10.7910/DVN/YH1GJT) repository. 
 
 
 The code is made up of three folders:
